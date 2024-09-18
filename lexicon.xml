@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="en-US">
+    <lexeme>
+        <grapheme>mmol</grapheme>
+        <alias>millimol</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>μmol</grapheme>
+        <alias>micromol</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>nmol</grapheme>
+    <alias>nanomol</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>pmol</grapheme>
+    <alias>picomol</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>fmol</grapheme>
+    <alias>femtomol</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> g </grapheme>
+        <alias>gram</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> mg </grapheme>
+        <alias>milligram</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> μg </grapheme>
+        <alias>microgram</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> ng </grapheme>
+        <alias>nanogram</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> μl </grapheme>
+        <alias>microliter</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> μL </grapheme>
+        <alias>microliter</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> nL </grapheme>
+        <alias>nanoliter</alias>
+    </lexeme>
+
+    <lexeme>
+        <grapheme>RT</grapheme>
+        <alias>room temperature</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>O/N</grapheme>
+        <alias>overnight</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> x g </grapheme>
+        <alias>times gravity</alias>
+    </lexeme>
+</lexicon>
